@@ -1,3 +1,6 @@
 {
-  "python.pythonPath": "/Users/mba0284f/.pyenv/versions/3.7.1/bin/python"
+  "python.pythonPath": "/Users/mba0284f/.pyenv/versions/3.7.1/bin/python",
+  "python.linting.pylintEnabled": true,
+  "python.linting.pep8Enabled": false,
+  "python.linting.enabled": true
 }
